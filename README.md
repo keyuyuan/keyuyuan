@@ -8,7 +8,7 @@
 
 ### 🛠 Technical Skills
 - **Languages**: Java ☕, Python 🐍, JavaScript ⚙️
-- **Java Technologies**: Spring Boot 🍃, Hibernate 🐘, JPA, Maven 🧰, Gradle, JUnit 🧪
+- **Java Technologies**: Spring Boot 🍃, Hibernate 🐘, JPA, Maven 🧰, Gradle, JUnit 🧪,Dropwizard
 - **Python Frameworks**: Django 🏗️, Flask 🍶, Pandas 🐼, NumPy 🔢, PyTorch 🔥, TensorFlow 🧠
 - **JavaScript Libraries & Frameworks**: React ⚛️, Node.js 🟩, Express.js 🚂, Angular 🔺, Vue.js 🖼️
 - **Blockchain Technologies**: Ethereum 💎, Solidity 🔗, Smart Contracts 📜, Web3.js 🕸️, Truffle, Hardhat 🛠️
