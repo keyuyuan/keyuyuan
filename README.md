@@ -7,13 +7,16 @@
 - ⚡ Fun fact: I enjoy contributing to open source projects and have impacted thousands of developers globally.
 
 ### 🛠 Technical Skills
-- **Languages**: Java ☕, Python 🐍, JavaScript ⚙️
-- **Java Technologies**: Spring Boot 🍃, Hibernate 🐘, JPA, Maven 🧰, Gradle, JUnit 🧪,Dropwizard
-- **Python Frameworks**: Django 🏗️, Flask 🍶, Pandas 🐼, NumPy 🔢, PyTorch 🔥, TensorFlow 🧠
-- **JavaScript Libraries & Frameworks**: React ⚛️, Node.js 🟩, Express.js 🚂, Angular 🔺, Vue.js 🖼️
+- **Languages**: Java ☕, Python 🐍, C/C++ 💻, JavaScript ⚙️,
+- **Java Technologies**: Spring Boot 🍃, Spring Cloud ☁️, Hibernate 🐘, JPA, Maven 🧰, Gradle 🛠️, JUnit 🧪, Dropwizard 🛠️, Dubbo 🕸️, MyBatis 🐍, Nginx 🚀, Spark ⚡, Hadoop 🌐, Flume 💧, Sqoop 🔗
+- **Python Frameworks**: Django 🏗️, Flask 🍶, Pandas 🐼, NumPy 🔢, scikit-learn 📈, Scrapy 🕷️, Djongo 🐍, PyTorch 🔥, TensorFlow 🧠
+- **JavaScript Libraries & Frameworks**: React ⚛️, Node.js 🟩, Express.js 🚂, Angular 🔺, Vue.js 🖼️, D3.js 📊, echarts.js 📈
+- **Big Data Technologies**: Spark ⚡, Hadoop 🌐, Flume 💧, Sqoop 🔗
 - **Blockchain Technologies**: Ethereum 💎, Solidity 🔗, Smart Contracts 📜, Web3.js 🕸️, Truffle, Hardhat 🛠️
-- **Databases**: MongoDB 🍃, PostgreSQL 🐘, MySQL 🔢
+- **Databases**: MongoDB 🍃, PostgreSQL 🐘, MySQL 🔢, Redis 🔄
+- **Messaging & Streaming**: Kafka 🐳, RabbitMQ 🐇
 - **Search Engines**: OpenSearch 🔍, Elasticsearch 🔎
-- **DevOps & Cloud**: Docker 🐳, Kubernetes ⚓, AWS ☁️, Azure ☁️, Google Cloud Platform ☁️, Oracle Cloud Infra☁️
+- **DevOps & Cloud**: Docker 🐳, Kubernetes ⚓, AWS ☁️, Azure ☁️, Google Cloud Platform ☁️, Oracle Cloud Infra ☁️, Terraform 🛠️, OCI SDK 📦, OCI CLI 🖥️
+- **Monitoring & Logging**: Grafana 📊, Prometheus 📈, Datadog 🐶
 - **Others**: Git 🔧, Jenkins 🛠️, JIRA 📊, Selenium 🤖
 
