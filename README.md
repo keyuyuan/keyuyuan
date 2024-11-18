@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on innovative projects in areas like OpenSearch optimizations and decentralized application development.
 - 📫 How to reach me: Email me at leoyuan0099@gmail.com or connect with me on LinkedIn at [https://www.linkedin.com/in/keyuyuan-leo/].
 - 😄 Pronouns: [He/Him/His]
-- ⚡ Fun fact: I enjoy contributing to open source projects and have impacted thousands of developers globally.
+- ⚡ Fun fact: Polish my competitive coding skill in Leetcode, track me here: https://leetcode.com/u/ykysoffers/ 
 
 ### 🛠 Technical Skills
 - **Languages**: Java ☕, Python 🐍, C/C++ 💻, JavaScript ⚙️,
