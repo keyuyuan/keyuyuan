@@ -2,7 +2,7 @@
 - 👀 I’m interested in backend and full-stack development, focusing on OpenSearch and Web3 DApps.
 - 🌱 I’m currently learning more about decentralized technologies and advancing my expertise in Java, Python, and JavaScript.
 - 💞️ I’m looking to collaborate on innovative projects in areas like OpenSearch optimizations and decentralized application development.
-- 📫 How to reach me: Email me at leoyuan0099@gmail.com or connect with me on LinkedIn at [https://www.linkedin.com/in/keyuyuan-leo/].
+- 📫 How to reach me: Email me at leoyuan0099@gmail.com.
 - 😄 Pronouns: [He/Him/His]
 - ⚡ Fun fact: Polish my competitive coding skill in Leetcode, track me here: https://leetcode.com/u/ykysoffers/ 
 
