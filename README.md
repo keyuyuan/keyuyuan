@@ -7,7 +7,7 @@
 - ⚡ Fun fact: Polish my competitive coding skill in Leetcode, track me here: https://leetcode.com/u/ykysoffers/ 
 
 ### 🛠 Technical Skills
-- **Languages**: Java ☕, Python 🐍, C/C++ 💻, JavaScript ⚙️,
+- **Languages**: Java ☕, Python 🐍, C/C++ 💻, JavaScript ⚙️, Go 🐭
 - **Java Technologies**: Spring Boot 🍃, Spring Cloud ☁️, Hibernate 🐘, JPA, Maven 🧰, Gradle 🛠️, JUnit 🧪, Dropwizard 🛠️, Dubbo 🕸️, MyBatis 🐍, Nginx 🚀, Spark ⚡, Hadoop 🌐, Flume 💧, Sqoop 🔗
 - **Python Frameworks**: Django 🏗️, Flask 🍶, Pandas 🐼, NumPy 🔢, scikit-learn 📈, Scrapy 🕷️, Djongo 🐍, PyTorch 🔥, TensorFlow 🧠
 - **JavaScript Libraries & Frameworks**: React ⚛️, Node.js 🟩, Express.js 🚂, Angular 🔺, Vue.js 🖼️, D3.js 📊, echarts.js 📈
